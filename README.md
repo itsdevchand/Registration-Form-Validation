@@ -134,15 +134,6 @@ async function submitToAPI(data) {
 
 ---
 
-## 📅 Challenge Log
-
-| Day | Project | Status |
-|-----|---------|--------|
-| 01  | Registration Form | ✅ Done |
-| 02  | … | 🔜 |
-
----
-
 ## 📄 License
 
 MIT — free to use, modify, and share.
